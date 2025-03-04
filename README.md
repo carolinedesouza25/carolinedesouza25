@@ -1,9 +1,9 @@
 # Sobre mim 
 
 Administradora em formação, com experiência em análise de dados, adquirida na empresa júnior AD&M Consultoria Empresarial e no projeto de pesquisa "Mulheres na Aviação Civil: Estudos para
-uma Regulação Inclusiva no Setor". Nessas experiências, apliquei **processos de tratamento, análise e geração de insights baseados em dados**. Na AD&M, trabalho com a análise de dados 
+uma Regulação Inclusiva no Setor". Nessas experiências, apliquei *processos de tratamento, análise e geração de insights baseados em dados*. Na AD&M, trabalho com a análise de dados 
 estratégicos para embasar decisões de negócios. No projeto de pesquisa, auxiliei na análise e interpretação de dados para compreender os fatores que dificultam o ingresso e a permanência de
-mulheres nas carreiras da aviação civil. Sou apaixonada por **aprendizado contínuo e estou constantemente me aprimorando** por meio de cursos e estudos voltados para análise de dados, 
+mulheres nas carreiras da aviação civil. Sou apaixonada por *aprendizado contínuo e estou constantemente me aprimorando* por meio de cursos e estudos voltados para análise de dados, 
 inteligência de negócios e gestão estratégica. Essas vivências fortaleceram meu interesse na área e impulsionaram minha busca incessante por desenvolvimento profissional. Como resultado,
 realizei os projetos apresentados neste portfólio, que refletem minha evolução e capacidade de transformar dados em insights estratégicos e soluções eficazes. 
 
@@ -52,11 +52,9 @@ Email - carolinelaraprofissional@gmail.com
 **Projeto de pesquisa ANAC - UnB**
 - Bolsista no projeto de pesquisa da Agência Nacional de Aviação Civil (ANAC), em parceria com a Universidade de Brasília (UnB), intitulado "Mulheres na Aviação Civil: Estudos para uma
    Regulação Inclusiva no Setor". Atuei na coleta, organização e análise de dados, auxiliando na transformação de informações brutas em insights estratégicos para embasar a formulação e
-   o acompanhamento de políticas públicas inclusivas no setor aéreo. A análise de dados permitiu identificar padrões, o que no futuro pode contribuir para recomendações regulatórias mais
-  eficazes, visando aumentar a participação e retenção feminina no setor.
+   o acompanhamento de políticas públicas inclusivas no setor aéreo. *A análise de dados permitiu identificar padrões, o que no futuro pode contribuir para recomendações regulatória mais 
+   eficazes, visando aumentar a participação e retenção feminina no setor.*
 
 
 **AD&M Consultoria Empresarial**
-- Desenvolvimento de competências essenciais para a atuação como consultor empresarial, abrangendo tanto habilidades comportamentais quanto técnicas. Entre os principais tópicos, destacam-
-  se: comunicação eficaz, estruturação de feedbacks, criação de dashboards no Looker Studio, mapeamento de processos no Bizagi, elaboração de planos de marketing, realização de pesquisas
-  de mercado, estratégias de custeio e precificação, elaboração de planos de negócios, entre outras práticas fundamentais.
+- Desenvolvimento de competências essenciais para a atuação como consultor empresarial, abrangendo tanto habilidades comportamentais quanto técnicas. Entre os principais tópicos, destacam-se: comunicação eficaz, estruturação de feedbacks, criação de dashboards no Looker Studio, mapeamento de processos no Bizagi, elaboração de planos de marketing, realização de pesquisas de mercado, estratégias de custeio e precificação, elaboração de planos de negócios, entre outras *práticas fundamentais com o objetivo de otimizar e embasar a estratégia empresarial*.
