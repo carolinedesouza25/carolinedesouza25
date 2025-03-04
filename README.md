@@ -41,7 +41,7 @@ Email - carolinelaraprofissional@gmail.com
 - Curso de SQL, com ênfase em consultas e manipulação de dados em bancos de dados relacionais. Aprendizado de técnicas para extrair, filtrar e agrupar dados, além de otimizar consultas
   e criar relatórios analíticos para apoiar decisões baseadas em dados.
 
-  **PySpark - Udemy**
+**PySpark - Udemy**
 
 12/2024 - 03/2025
 - Curso de PySpark, com foco no processamento de grandes volumes de dados distribuídos utilizando Python e Spark. Aprendizado de operações fundamentais para transformação e análise de
