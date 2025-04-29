@@ -51,4 +51,4 @@ Email - carolinelaraprofissional@gmail.com
 
 
 **AD&M Consultoria Empresarial**
-- Desenvolvimento de competências essenciais para a atuação como consultor empresarial, abrangendo tanto habilidades comportamentais quanto técnicas. Entre os principais tópicos, destacam-se: comunicação eficaz, estruturação de feedbacks, criação de dashboards no Looker Studio, mapeamento de processos no Bizagi, elaboração de planos de marketing, realização de pesquisas de mercado, estratégias de custeio e precificação, elaboração de planos de negócios, entre outras *práticas fundamentais com o objetivo de otimizar e embasar a estratégia empresarial*.
+- Atuação como consultora empresarial, com foco no desenvolvimento e aplicação de competências técnicas essenciais à consultoria, como estruturação de feedbacks, criação de dashboards no Looker Studio para análise de KPIs, organização de fluxos de trabalho, elaboração de planos de marketing, gestão de pessoas e processos, além da análise de dados e desenvolvimento de soluções estratégicas voltadas para a melhoria da performance organizacional.
