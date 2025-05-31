@@ -7,6 +7,9 @@
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
+
+![Snake animation](https://github.com/carolinedesouza25/carolinedesouza25/blob/output/github-contribution-grid-snake.svg)
+
 # Sobre mim 
 
 Administradora em formação, com experiência em análise de dados, adquirida na empresa júnior AD&M Consultoria Empresarial e no projeto de pesquisa "Mulheres na Aviação Civil: Estudos para
