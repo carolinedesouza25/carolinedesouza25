@@ -1,6 +1,7 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinedesouza25&show_icons=true&theme=radical&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedesouza25&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolinedesouza25&show_icons=true&theme=yellow&locale=pt-br" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedesouza25&layout=compact&theme=yellow" height="150" />
+</div>
 
 # Sobre mim 
 
