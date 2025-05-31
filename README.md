@@ -1,6 +1,6 @@
-<div align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinedesouza25&show_icons=true&theme=radical&locale=pt-br)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedesouza25&layout=compact&theme=radical)
+
+<img width="42%" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinedesouza25&show_icons=true&theme=radical&locale=pt-br)">
+<img width="50%" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedesouza25&layout=compact&theme=radical)">
 
 
 
