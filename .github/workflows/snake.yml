@@ -11,6 +11,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
           github_user_name: carolinedesouza25
@@ -30,3 +33,4 @@ jobs:
         with:
           branch: output
           folder: dist
+
