@@ -1,3 +1,7 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinedesouza25&show_icons=true&theme=radical&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedesouza25&layout=compact&theme=radical)
+
 # Sobre mim 
 
 Administradora em formação, com experiência em análise de dados, adquirida na empresa júnior AD&M Consultoria Empresarial e no projeto de pesquisa "Mulheres na Aviação Civil: Estudos para
