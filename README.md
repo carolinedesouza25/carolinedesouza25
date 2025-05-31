@@ -4,17 +4,6 @@
 
 ![Snake animation](https://github.com/carolinedesouza25/carolinedesouza25/blob/output/github-contribution-grid-snake.svg)
 
-## Meus projetos:
-
-### [Análise de vendas de uma pizaaria](https://github.com/carolinedesouza25/projeto1)  
-Descrição rápida do que o projeto faz.
-
-### [Nome do Projeto 2](https://github.com/carolinedesouza25/projeto2)  
-Descrição rápida do que o projeto faz.
-
-### [Nome do Projeto 3](https://github.com/carolinedesouza25/projeto3)  
-Descrição rápida do que o projeto faz.
-
 
 ## Tecnologias que domino: 
 
