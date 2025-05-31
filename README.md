@@ -1,7 +1,16 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolinedesouza25&show_icons=true&theme=radical&locale=pt-br" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinedesouza25&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
+## Tecnologias que domino: 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+## Gráfico de Contribuições:
+
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=carolinedesouza25&area=true&area_color=ffb6c1&line=ff69b4&point=ff69b4&color=ffffff&bg_color=ffffff00)](https://github.com/carolinedesouza25)
+
 
 
 # Sobre mim 
